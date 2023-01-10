@@ -1,20 +1,19 @@
 {
-  "browserslist": {
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "dependencies": {},
-  "devDependencies": {},
-  "eslintConfig": {},
   "name": "test-const-only",
-  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JasonChen10214/test-const-only.git"
+    "url": "git+https://github.com/JasonChen10214/test-const-only.git"
   },
-  "scripts": {},
-  "version": "0.1.0"
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JasonChen10214/test-const-only/issues"
+  },
+  "homepage": "https://github.com/JasonChen10214/test-const-only#readme"
 }
